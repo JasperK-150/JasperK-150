@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My Name is Jasper, i am a Student in the field of Multimedia and COmmunication. 
+My Name is Jasper, i am a Student in the field of Multimedia and Communication. 
 I am interested in Sound-Design, Audio-Engineering, Electronic Music and really anything Audio-Related.
 
 Currently i am working on developing a digital hardware DIY Synthesizer, based on the Electrosmith Daisyseed and PlugData. 
